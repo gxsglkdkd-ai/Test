@@ -1,8 +1,4 @@
 {
-"modVersion": "1.0.0",
-"whitelist": [
-"D98C10C6-925F-EA11-8104-3822E2BCEACD",
-"03000200-0400-0500-0006-000700080009"
-],
-"blacklist": []
+"signedData": "{"whitelist":["D98C10C6-925F-EA11-8104-3822E2BCEACD","03000200-0400-0500-0006-000700080009"],"blacklist":[],"modVersion":"1.0.0","allowedVersions":["1.0.0"],"expiresAt":1772448000000}",
+"signature": "ВСТАВЬ_СЮДА_BASE64_ПОДПИСЬ"
 }
