@@ -1,4 +1,4 @@
 {
-  "signedData": "{\"whitelist\":[\"D98C10C6-925F-EA11-8104-3822E2BCEACD\",\"707f37c9-0cdd-487c-a2ea-859566104eb1\"],\"blacklist\":[],\"modVersion\":\"1.0.0\",\"allowedVersions\":[\"1.0.0\"],\"expiresAt\":1776598509553}",
-  "signature": "mNBR1E3LH/CNGs5bTtpR1ktAHVLYRdnGVyQ1n/B3JaiB+fiJkg5B02Gx02XKdT4oW1mdWrqWoVlhn4mBMNwTkLxKpNTcXRWce0+O/fVAXqo/iS99NaWAJZyEWBp27wxPAsCdfWY2ZDNVs3wvJHlw6Mv93Ns6cjAAYuJMWncR3n1HPKdLfFMlyfdrpXlJatl0KqsfhI9LZqPt80D7ucVfE1rAONIgkl7jwlbHauHjOJXoWzlVuHAuIrijtdX9HwwQHMdujAMKakLqmKYXQuXVKH8FOVsXk/hpep4g67kwlPmJDOv+cMY7ln7Ro9S3tiM/vo9fIGzZboV+8sErU5X7nw=="
+	"signedData": "{\"whitelist\":[\"D98C10C6-925F-EA11-8104-3822E2BCEACD\",\"03000200-0400-0500-0006-000700080009\"],\"blacklist\":[],\"modVersion\":\"1.0.0\",\"allowedVersions\":[\"1.0.0\"],\"expiresAt\":1776598509553}",
+	"signature": "mNBR1E3LH/CNGs5bTtpR1ktAHVLYRdnGVyQ1n/B3JaiB+fiJkg5B02Gx02XKdT4oW1mdWrqWoVlhn4mBMNwTkLxKpNTcXRWce0+O/fVAXqo/iS99NaWAJZyEWBp27wxPAsCdfWY2ZDNVs3wvJHlw6Mv93Ns6cjAAYuJMWncR3n1HPKdLfFMlyfdrpXlJatl0KqsfhI9LZqPt80D7ucVfE1rAONIgkl7jwlbHauHjOJXoWzlVuHAuIrijtdX9HwwQHMdujAMKakLqmKYXQuXVKH8FOVsXk/hpep4g67kwlPmJDOv+cMY7ln7Ro9S3tiM/vo9fIGzZboV+8sErU5X7nw=="
 }
