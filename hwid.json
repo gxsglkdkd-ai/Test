@@ -1,6 +1,6 @@
 {
   "payload": {
-    "whitelist": "HWID1\nHWID2\nHWID3",
+    "whitelist": "HWID1\nHWID2\3B006B9C-81F7-0000-0000-000000000000",
     "blacklist": "",
     "modVersion": "1.0.0",
     "allowedVersions": ["1.0.0"],
